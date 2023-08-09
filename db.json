@@ -7,7 +7,7 @@
       "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
       "image": "./assets/f13-1.jpeg",
       "watched": true,
-      "blood_amount": 3
+      "blood_amount": 19
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "release_year": 1981,
       "description": "Five years after the horrible bloodbath at Camp Crystal Lake, it seems Jason Voorhees and his demented mother are in the past. Paul opens up a new camp close to the infamous site, ignoring warnings to stay away, and a sexually-charged group of counselors follow -- including child psychologist major Ginny. But Jason has been hiding out all this time, and now he's ready for revenge.",
       "image": "./assets/f13-2.jpeg",
-      "watched": false,
-      "blood_amount": 6
+      "watched": true,
+      "blood_amount": 8
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "release_year": 1982,
       "description": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naive counselors. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason who stalks them at every turn.",
       "image": "./assets/f13-3.jpeg",
-      "watched": false,
-      "blood_amount": 5
+      "watched": true,
+      "blood_amount": 0
     },
     {
       "id": 4,
@@ -51,8 +51,8 @@
       "release_year": 1986,
       "description": "Determined to finish off the infamous killer Jason Voorhees once and for all, Tommy Jarvis and a friend exhume Jason’s corpse in order to cremate him. Things go awry when Jason is instead resurrected, sparking a new chain of ruthlessly brutal murders. Now it’s up to Tommy to stop the dark, devious and demented deaths that he unwittingly brought about.",
       "image": "./assets/f13-jasonlives.jpeg",
-      "watched": true,
-      "blood_amount": 7
+      "watched": false,
+      "blood_amount": 0
     },
     {
       "id": 7,
@@ -106,7 +106,7 @@
       "description": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
       "image": "./assets/f13-remake.jpeg",
       "watched": false,
-      "blood_amount": 0
+      "blood_amount": 19
     }
   ]
 }
